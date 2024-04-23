@@ -1,0 +1,6 @@
+1 Fish 1 100 15 1
+2 Chepsi 2 100 6 2
+3 Pepsi 3 100 6 3
+4 banana 4 100 10 4
+10 Crespi 50 100 15 2
+20 Cola 22 100 10 44
